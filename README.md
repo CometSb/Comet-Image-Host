@@ -1,2 +1,2 @@
 # Comet-Image-Host
-Comming soon.
+https://github.com/Comet-Image-Host
